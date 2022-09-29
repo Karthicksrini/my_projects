@@ -1,7 +1,7 @@
 function Calculator(){
  return(
  <>
- <iframe src="https://fastidious-croquembouche-a90397.netlify.app/"></iframe>
+ <iframe title="Calculator" src="https://fastidious-croquembouche-a90397.netlify.app/"></iframe>
  </>
     ) 
 }
