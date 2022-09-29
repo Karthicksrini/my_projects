@@ -1,0 +1,37 @@
+.container{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.component{
+    width:20rem;
+    height:6rem;
+    background-color:rgb(248, 239, 139);
+    padding:20px;
+    margin:10px;   
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    font-size:large;
+    font-weight: bold;
+    transition: 0.5s ease-in-out;
+
+}
+
+.component:hover{
+    background-color: rgb(251, 179, 70);
+    color:white;
+    border-radius: 5rem;
+    font-size: 1.5rem;
+    
+}
+
+body{
+    background-image: linear-gradient();
+}
+
+a{
+    text-decoration: none;
+}
