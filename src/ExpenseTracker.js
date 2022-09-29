@@ -1,7 +1,7 @@
 function ExpenseTracker(){
     return(
         <>
-           <iframe src="https://guileless-donut-963218.netlify.app/"></iframe>
+           <iframe title="Expense_tracker" src="https://guileless-donut-963218.netlify.app/"></iframe>
         </>
     )
 }
